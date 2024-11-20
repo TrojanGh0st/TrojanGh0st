@@ -215,11 +215,11 @@
 
 <p align="center">
   <br>
-  <a href="https://www.linkedin.com/in/govind-singh9447/" target="_blank">
+  <a href="" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/linkedin.svg"/></code>
   </a>
   
-  <a href="https://www.instagram.com/GovindSingh9447/" target="_blank">
+  <a href="https://www.instagram.com/darlingonthebeat/" target="_blank">
     <code><img height="60" width="60" src="https://github.com/JayantGoel001/JayantGoel001/blob/master/SVG/instagram.svg"/></code>
   </a>
     
@@ -248,9 +248,3 @@ If you like what you see, don't forget to star ⭐ some of the projects and show
 #
 
 ![footer](https://github.com/GovindSingh9447/GovindSingh9447/blob/main/WEBP/footer.webp)
-
-
------
-**Credits**: [GovindSingh9447](https://github.com/GovindSingh9447)
-
-**Last Edited on**: 20/04/2024
